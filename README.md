@@ -1,6 +1,6 @@
 # Hubstatic
 
-A static site hosting and management solution.
+A static site generated from WordPress (with 'simple static' plugin)
 
 ## Getting Started
 
